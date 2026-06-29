@@ -15,7 +15,7 @@ Python · LangChain · ChromaDB · HuggingFace Embeddings · Groq API · Streaml
 ## Setup
 
 1. Clone the repo
-   git clone https://github.com/YOUR_USERNAME/telecom-rag-chatbot.git
+   git clone https://github.com/Drsami45/Telecom-Support.git
    cd telecom-rag-chatbot
 
 2. Install dependencies
