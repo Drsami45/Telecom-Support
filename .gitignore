@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB (large vector store — don't upload)
+chroma_store/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Python version file
+.python-version
+
+# Lock files
+uv.lock
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
